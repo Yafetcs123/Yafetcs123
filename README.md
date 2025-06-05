@@ -1,6 +1,6 @@
 ![keren](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNqN2p4MDFuZzM1NDJ1aW5taDJkbHVreWVmZzQ0andiODlhb2pjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ON14Xiy1Ix2CLkXM0V/giphy.gif)
 
-![gg](file/github-header-image.png)
+
 ## Helllo world i'm are programmer
 > My Favorite Language is 
 * Python
