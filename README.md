@@ -23,4 +23,4 @@
 
 ##### My Stats
 
-[![Yafetcs123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yafetcs123)]
+[![Yafetcs123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yafetcs123&show_icons=true&theme=radical)]
