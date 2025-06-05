@@ -2,6 +2,10 @@
 
 
 ## Helllo world i'm are programmer
+### About me
+* Now I'm Student In SMPKN Anglo, Indonesia
+* I'm 13 Years old
+* Now, I'm Learning Python,Php,Dart
 > My Favorite Language is 
 * Python
 * Php
