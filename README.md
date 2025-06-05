@@ -19,3 +19,8 @@
 ##### My contact
 
 ![https://www.instagram.com/yft_cs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+##### My Stats
+
+[![Yafetcs123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yafetcs123)]
